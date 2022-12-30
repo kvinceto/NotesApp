@@ -1,0 +1,15 @@
+D:\ProgramsSoftUni\NotesApp\bin\Debug\net6.0\NotesApp.exe
+D:\ProgramsSoftUni\NotesApp\bin\Debug\net6.0\NotesApp.deps.json
+D:\ProgramsSoftUni\NotesApp\bin\Debug\net6.0\NotesApp.runtimeconfig.json
+D:\ProgramsSoftUni\NotesApp\bin\Debug\net6.0\NotesApp.dll
+D:\ProgramsSoftUni\NotesApp\bin\Debug\net6.0\NotesApp.pdb
+D:\ProgramsSoftUni\NotesApp\obj\Debug\net6.0\NotesApp.csproj.AssemblyReference.cache
+D:\ProgramsSoftUni\NotesApp\obj\Debug\net6.0\NotesApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramsSoftUni\NotesApp\obj\Debug\net6.0\NotesApp.AssemblyInfoInputs.cache
+D:\ProgramsSoftUni\NotesApp\obj\Debug\net6.0\NotesApp.AssemblyInfo.cs
+D:\ProgramsSoftUni\NotesApp\obj\Debug\net6.0\NotesApp.csproj.CoreCompileInputs.cache
+D:\ProgramsSoftUni\NotesApp\obj\Debug\net6.0\NotesApp.dll
+D:\ProgramsSoftUni\NotesApp\obj\Debug\net6.0\refint\NotesApp.dll
+D:\ProgramsSoftUni\NotesApp\obj\Debug\net6.0\NotesApp.pdb
+D:\ProgramsSoftUni\NotesApp\obj\Debug\net6.0\NotesApp.genruntimeconfig.cache
+D:\ProgramsSoftUni\NotesApp\obj\Debug\net6.0\ref\NotesApp.dll
